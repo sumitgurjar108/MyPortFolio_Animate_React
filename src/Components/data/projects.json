@@ -1,0 +1,34 @@
+[
+    {
+      "key": 1,
+      "title": "FinConnect App",
+      "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
+      "description": "This is a project made with complete MERN stack",
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "key": 2,
+      "title": "ToDo List",
+      "imageSrc": "https://media.geeksforgeeks.org/wp-content/uploads/20230606125727/gfg.png",
+      "description": "This is a project made with complete React js. Hooks CSS jsx",
+      "demo": "https://www.example.com",
+      "source": "https://github.com/sumitgurjar108/ToDoList"
+    },
+    {
+      "key": 3,
+      "title": "React Ecommerce site",
+      "imageSrc": "https://m.media-amazon.com/images/G/31/amazonservices/Blog/What_is_an_E-commerce_business.jpg",
+      "description": "This Myntra site is a project made with complete React js.",
+      "demo": "https://www.example.com",
+      "source": "https://github.com/sumitgurjar108/myntraclone"
+    },
+    {
+      "key": 4,
+      "title": "Smart Parking System",
+      "imageSrc": "https://b2bblogassets.airtel.in/wp-content/uploads/2022/05/iot-based-smart-parking-scaled.jpg",
+      "description": "This is a project made with HTML CSS & JS",
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

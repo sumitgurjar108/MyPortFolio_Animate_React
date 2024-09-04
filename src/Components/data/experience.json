@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "role": " Software Developer intern",
+      "organisation": "Numetry Technologies",
+      "startDate": "june, 2024",
+      "endDate": "Present",
+      "location": "Pune,MH",
+      "experiences": [
+        "Worked as Frontend Developer ",
+        "Worked with the Numetry Team as SDE"
+      ],
+      "imageSrc": "https://media.licdn.com/dms/image/v2/D560BAQH5YHtpxAHvDA/company-logo_200_200/company-logo_200_200/0/1694512590827/numetry_technologies_logo?e=2147483647&v=beta&t=ivMloinovGQuG1X7un2ik1048qLUB2tU_0NPsIyYdFs"
+    },
+    {
+      "id": 2,
+      "role": "Full stack developer",
+      "organisation": "Unified Mentor",
+      "startDate": "April 2024,",
+      "endDate": "May 2024",
+      "location": "Gurugram ,Harayana",
+      "experiences": [
+        "Worked as Mern dev",
+        "Build projects under experts"
+      ],
+      "imageSrc": "https://cdn.elearningindustry.com/wp-content/uploads/2023/10/276e36c0a066824acb064b6471dd7452.jpeg"
+    }
+  ]
